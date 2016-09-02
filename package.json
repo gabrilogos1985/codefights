@@ -1,0 +1,29 @@
+{
+  "name": "code-fight",
+  "version": "1.0.0",
+  "description": "chllanges js",
+  "main": "index.js",
+  "dependencies": {
+    "karma-firefox-launcher": "^1.0.0",
+    "jasmine": "^2.5.0",
+    "jasmine-core": "^2.5.0",
+    "karma": "^1.2.0",
+    "karma-jasmine": "^1.0.2"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrilogos1985/codefights.git"
+  },
+  "author": "gabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrilogos1985/codefights/issues"
+  },
+  "homepage": "https://github.com/gabrilogos1985/codefights#readme"
+}
